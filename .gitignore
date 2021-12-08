@@ -10,6 +10,16 @@ __pycache__/
 *.xlsx
 *.csv
 *.zip
+hw3/casting_512x512/
+hw3/casting_data/
+
+
+
+
+# model
+*.hdf5
+
+
 
 # Distribution / packaging
 .Python
